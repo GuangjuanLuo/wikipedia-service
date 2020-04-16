@@ -6,6 +6,8 @@ require "WikiPediaAPI.php";
 
 use API\WikiPediaAPI;
 
+
+// { PLACE YOUR TEXT HERE  }
 $value = "coronavirus";
 
 $wiki = new WikiPediaAPI();
