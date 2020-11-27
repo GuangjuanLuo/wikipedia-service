@@ -1,6 +1,6 @@
 <?php
 /**
- * Thinkmoat (c) 2020
+ * Thinkmoat (c) 2020 guangjuan
  * API
  *
  * Summary:         WikiPediaAPI
